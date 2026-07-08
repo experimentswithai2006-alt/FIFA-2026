@@ -1,0 +1,6 @@
+{
+  "name": "ArenaIntel 2026",
+  "description": "GenAI-enabled operations & fan intelligence command center for the FIFA World Cup 2026 stadium events.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
